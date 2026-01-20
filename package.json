@@ -1,0 +1,8 @@
+{
+  "name": "webwaka-suite-identity-provider",
+  "version": "0.1.0",
+  "description": "WebWaka identity-provider suite - runtime",
+  "scripts": {
+    "test": "echo 'No tests yet' && exit 0"
+  }
+}
